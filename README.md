@@ -1,6 +1,6 @@
 # The Big Eye — public legal and support site
 
-This public repository contains only the legal, privacy, support, and advertising-authorization resources required for The Big Eye's store releases.
+This public repository contains only the legal, privacy, support, and advertising-authorization resources required for The Big Eye's store releases. GitHub Pages deploys the site automatically from the `main` branch.
 
 Published resources:
 
